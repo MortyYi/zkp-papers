@@ -10,3 +10,4 @@ Plonk: https://eprint.iacr.org/2019/953.pdf
 
 Stark: https://eprint.iacr.org/2018/046.pdf
 
+halo 2: https://zcash.github.io/halo2/
